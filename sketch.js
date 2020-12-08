@@ -20,7 +20,6 @@ function setup() {
   playbutton.scale=0.3;
 
   instructions=createSprite(500,150, 800, 125);
-  instructions.addImage("ins", instructionsimg);
 
 }
 
